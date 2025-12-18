@@ -1,0 +1,1 @@
+// Entry moved to src/main.jsx for Vite. This file is kept for reference.
